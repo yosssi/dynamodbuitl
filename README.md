@@ -1,2 +1,1 @@
-# dynamodbuitl
-DynamoDB Utility Functions
+# DynamoDB Utility Functions
